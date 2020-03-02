@@ -16,6 +16,7 @@ and other services should take notice.
 - Dropbox
 - Facebook
 - PyPi
+- NameCheap
 
 ## Mediocre support :neutral_face:
 
@@ -23,7 +24,6 @@ These services support just 1 security key, sometimes interchangeably with other
 
 - Twitter
 - AWS
-- NameCheap
 
 ## Lame support or no support :disappointed:
 
