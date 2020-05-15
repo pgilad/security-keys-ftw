@@ -17,6 +17,7 @@ and other services should take notice.
 - Facebook
 - PyPi
 - NameCheap
+- Bitfinex
 
 ## Mediocre support :neutral_face:
 
